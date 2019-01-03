@@ -1,0 +1,5 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="KOTLIN_BUNDLED" value="F:\ideaIC-2018.3.2.win\plugins\Kotlin\kotlinc" />
+  </component>
+</application>
