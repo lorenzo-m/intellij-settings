@@ -12,5 +12,3 @@ In particular the following contain user-specific settings:
 * .idea/workspace.xml
 * .idea/usage.statistics.xml
 * .idea/tasks.xml
-* .idea/modules.xml
-* .idea/*.iml
